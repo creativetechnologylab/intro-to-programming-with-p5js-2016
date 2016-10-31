@@ -11,4 +11,6 @@ function draw() {
   // line(); // https://p5js.org/reference/#/p5/line
   // ellipse(); // https://p5js.org/reference/#/p5/ellipse
   // triangle(); // ???????
+  
+  // Task: Create a line(), ellipse() & triangle() by consulting the documentation
 } 
