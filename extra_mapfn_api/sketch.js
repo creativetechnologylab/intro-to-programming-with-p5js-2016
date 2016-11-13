@@ -9,7 +9,7 @@ function setup() {
   createCanvas(500, 500);
   background(0);
   // Set a repeating interval. Calls getLightReading function every 100ms
-  setInterval(getLightReading, 100);
+  setInterval(getLightReading, 1000);
 }
 
 function draw() {
