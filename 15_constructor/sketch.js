@@ -15,8 +15,8 @@ function setup() {
   b1 = new Bicycle(0, 0, 1, 1, 10, "#000fff");
   console.log(b1);
 
-  // Create 10 bicycles with random properties.
-  for(var i = 0; i < 10; i++){
+  // Create 100 bicycles with random properties.
+  for(var i = 0; i < 100; i++){
     var randx = random(width);
     var randy = random(height);
     var randvx = random(-2, 2);
