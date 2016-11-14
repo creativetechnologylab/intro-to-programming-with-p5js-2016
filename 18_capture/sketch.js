@@ -23,7 +23,6 @@ function setup() {
 
 function draw() {
   clear();
-  // Unfiltered image.
   image(capture, 0, 0, width, height);
 }
 

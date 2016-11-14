@@ -1,6 +1,6 @@
 /*
  * Objects
- * @description Looking at functions as variables & objects
+ * @description Looking at functions as variables & inside objects
  * @author Gareth Foote
  */
 
@@ -46,6 +46,4 @@ function draw() {
   drawBicycle();
   updateBicycle();
 
-  // bicycle.drawBicycle();
-  // bicycle.updateBicycle();
 }
